@@ -1,0 +1,3 @@
+[submodule "pkg/libvirt"]
+	path = pkg/libvirt
+	url = git@github.com:libvirt/libvirt-go.git
